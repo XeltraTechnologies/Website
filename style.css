@@ -2,3 +2,11 @@ p{
     text-align: center;
     font-size: 40px;
 }
+
+a{
+    font-size: 15px;
+    text-align: center;
+    display: block; /* Make the <a> tag a block-level element */
+    margin: 20px auto; /* Center the link horizontally and add spacing */
+    width: max-content; /* Make the width fit the content inside */
+}
